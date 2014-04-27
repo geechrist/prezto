@@ -33,6 +33,12 @@ zstyle ':prezto:load' pmodule \
   'utility' \
   'completion' \
   'take' \
+  'syntax-highlighting' \
+  'history' \
+  'history-substring-search' \
+  'fasd' \
+  'osx' \
+  'git' \
   'prompt'
 
 #
