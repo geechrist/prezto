@@ -39,6 +39,7 @@ zstyle ':prezto:load' pmodule \
   'take' \
   'fasd' \
   'git' \
+  'homebrew' \
   'android' \
   'haskell' \
   'prompt'

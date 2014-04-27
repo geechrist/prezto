@@ -10,6 +10,8 @@ if [[ "$OSTYPE" != darwin* ]]; then
   return 1
 fi
 
+export BREW_HOME=/usr/local/opt
+
 #
 # Aliases
 #
