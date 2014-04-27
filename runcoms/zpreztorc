@@ -32,14 +32,13 @@ zstyle ':prezto:load' pmodule \
   'spectrum' \
   'utility' \
   'completion' \
-  'take' \
   'syntax-highlighting' \
-  'history' \
   'history-substring-search' \
-  'fasd' \
   'osx' \
-  'git' \
   'archive' \
+  'take' \
+  'fasd' \
+  'git' \
   'haskell' \
   'prompt'
 
