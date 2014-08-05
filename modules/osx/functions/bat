@@ -1,0 +1,5 @@
+# Get OSX Battery percentage
+
+function bat {
+  pmset -g batt | egrep "([0-9]+\%).*" -o --colour=auto | cut -f1 -f3 -d';'
+}
