@@ -38,6 +38,7 @@ zstyle ':prezto:load' pmodule \
   'grc' \
   'archive' \
   'take' \
+  'replace' \
   'fasd' \
   'holman-git' \
   'homebrew' \
