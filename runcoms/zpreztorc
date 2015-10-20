@@ -40,8 +40,12 @@ zstyle ':prezto:load' pmodule \
   'take' \
   'replace' \
   'fasd' \
+  'fancy-ctrl-z' \
   'holman-git' \
   'homebrew' \
+  'java' \
+  'android' \
+  'node' \
   'prompt'
 
 #
