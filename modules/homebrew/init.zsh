@@ -12,6 +12,9 @@ fi
 
 export BREW_HOME=/usr/local/opt
 
+api_token="${0:h}/api_token.zsh"
+[ -f $api_token ] && source $api_token
+
 #
 # Aliases
 #
